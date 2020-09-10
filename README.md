@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Progress
-masih dalam progress...
+masih dalam pengembangan...
 
 
 ## Available Scripts
